@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="510" height="173" preserveAspectRatio="xMinYMin meet" viewBox="0 0 510 173" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="510" height="173"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-173)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="23" width="155" height="139" rx="6" ry="0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="56.11" y="145" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,290) scale(1,-1)">products</text>
+			<text x="65.1268" y="129" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,258) scale(1,-1)">id [PK]</text>
+			<text x="30.1156" y="117" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,234) scale(1,-1)">name, category, currency</text>
+			<text x="39.6832" y="105" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,210) scale(1,-1)">price_paise [integer]</text>
+			<text x="34.786" y="93" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,186) scale(1,-1)">specifications [JSONB]</text>
+			<text x="32.6734" y="81" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,162) scale(1,-1)">intended_uses, features</text>
+			<rect x="182" y="23" width="155" height="139" rx="6" ry="0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="225.6" y="145" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,290) scale(1,-1)">conversations</text>
+			<text x="235.6944" y="129" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,258) scale(1,-1)">id [UUID PK]</text>
+			<text x="217.4874" y="117" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,234) scale(1,-1)">requirements [JSONB]</text>
+			<text x="248.2944" y="105" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,210) scale(1,-1)">status</text>
+			<text x="216.303" y="93" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,186) scale(1,-1)">created_at, updated_at</text>
+			<rect x="365" y="23" width="145" height="139" rx="6" ry="0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="413.32" y="145" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,290) scale(1,-1)">messages</text>
+			<text x="413.6944" y="129" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,258) scale(1,-1)">id [UUID PK]</text>
+			<text x="399.217" y="117" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,234) scale(1,-1)">conversation_id [FK]</text>
+			<text x="414.3874" y="105" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,210) scale(1,-1)">role, content</text>
+			<text x="417.655" y="93" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,186) scale(1,-1)">created_at</text>
+			<path d="M 337,95 L 365,95 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.15;"/>
+			<polygon points="365 95, 361.0509 97.15741, 361.0509 92.84259" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<text x="343.08" y="106" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,212) scale(1,-1)">1 : N</text>
+			<text x="112.27600000000001" y="7" style="font-family: Helvetica; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,14) scale(1,-1)">Products are retrieved by ID. Recommendation persistence is planned for Day 2.</text>
+		</g>
+	</g>
+</svg>

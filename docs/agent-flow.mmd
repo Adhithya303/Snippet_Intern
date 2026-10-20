@@ -1,0 +1,12 @@
+flowchart TD
+  Receive["Validate message and load state"] --> Extract["Extract, validate and merge changes"]
+  Extract --> Missing{"Important ambiguity or missing detail?"}
+  Missing -->|Yes| Ask["Ask a focused question"]
+  Missing -->|No| Search["Search and apply hard constraints"]
+  Search --> Matches{"Eligible records?"}
+  Matches -->|Yes| Rank["Rank and explain up to two"]
+  Matches -->|No| NoMatch["Explain no match; propose adjustment"]
+  Ask --> Save["Save turn and valid state"]
+  Rank --> Save
+  NoMatch --> Save
+  Save --> Next["Wait for next customer message"]

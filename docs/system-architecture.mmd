@@ -1,0 +1,11 @@
+flowchart TD
+  UI["React: catalogue and conversation setup"] --> API["FastAPI: validation and REST endpoints"]
+  API --> Search["Controlled catalogue search"]
+  API --> State["Conversation persistence"]
+  Search --> DB[("PostgreSQL: products, conversations, messages")]
+  State --> DB
+  API -.-> Agent["Planned controller: clarify, filter, rank, respond"]
+  Agent -.-> LLM["Planned Gemini API adapter: gemini-3.8-flash, free tier"]
+  LLM -.-> Agent
+  Agent -.-> Search
+  Agent -.-> State

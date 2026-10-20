@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="510" height="310" preserveAspectRatio="xMinYMin meet" viewBox="0 0 510 310" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="510" height="310"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-310)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="239" width="145" height="60" rx="6" ry="0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="36.655" y="282" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,564) scale(1,-1)">React interface</text>
+			<text x="29.424799999999998" y="266" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,532) scale(1,-1)">Catalogue + setup now</text>
+			<text x="19.159999999999997" y="254" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,508) scale(1,-1)">Chat + comparison on Day 2</text>
+			<rect x="182" y="239" width="145" height="60" rx="6" ry="0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="211.435" y="282" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,564) scale(1,-1)">FastAPI REST API</text>
+			<text x="205.35999999999999" y="266" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,532) scale(1,-1)">Validation + error handling</text>
+			<text x="200.5762" y="254" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,508) scale(1,-1)">Five working routes; one 501</text>
+			<rect x="365" y="239" width="145" height="60" rx="6" ry="0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd; stroke-dasharray: 4, 3;"/>
+			<text x="398.885" y="282" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,564) scale(1,-1)">Agent controller</text>
+			<text x="391.2748" y="266" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,532) scale(1,-1)">State, questions, ranking</text>
+			<text x="386.6086" y="254" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,508) scale(1,-1)">Grounded response builder</text>
+			<path d="M 145,271 L 182,271 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.15;"/>
+			<polygon points="182 271, 178.0509 273.1574, 178.0509 268.8426" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<text x="153.20875" y="280" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,560) scale(1,-1)">HTTP</text>
+			<path d="M 327,271 L 365,271 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.15; stroke-dasharray: 4, 3;"/>
+			<polygon points="365 271, 361.0509 273.1574, 361.0509 268.8426" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<rect x="0" y="123" width="145" height="64" rx="6" ry="0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="26.935000000000002" y="170" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,340) scale(1,-1)">Conversation store</text>
+			<text x="32.822599999999994" y="154" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,308) scale(1,-1)">Current requirements</text>
+			<text x="25.350799999999992" y="142" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,284) scale(1,-1)">Ordered message history</text>
+			<rect x="182" y="123" width="145" height="64" rx="6" ry="0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="211.99" y="170" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,340) scale(1,-1)">Controlled search</text>
+			<text x="210.9586" y="154" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,308) scale(1,-1)">Category + budget now</text>
+			<text x="206.1832" y="142" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,284) scale(1,-1)">More hard filters on Day 2</text>
+			<rect x="365" y="123" width="145" height="64" rx="6" ry="0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd; stroke-dasharray: 4, 3;"/>
+			<text x="391.375" y="170" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,340) scale(1,-1)">Gemini API adapter</text>
+			<text x="407.6254" y="154" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,308) scale(1,-1)">gemini-3.8-flash</text>
+			<text x="386.3776" y="142" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,284) scale(1,-1)">Free tier; planned for Day 2</text>
+			<path d="M 220,239 L 220,213 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.15;"/>
+			<path d="M 220,213 L 73,213 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.15;"/>
+			<path d="M 73,213 L 73,187 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.15;"/>
+			<polygon points="73 187, 75.15741 190.9491, 70.84259 190.9491" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<path d="M 255,239 L 255,187 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.15;"/>
+			<polygon points="255 187, 257.1574 190.9491, 252.8426 190.9491" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<path d="M 425,239 L 425,187 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.15; stroke-dasharray: 4, 3;"/>
+			<polygon points="425 187, 427.1574 190.9491, 422.8426 190.9491" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<text x="388.33" y="209" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,418) scale(1,-1)">Extract</text>
+			<path d="M 451,187 L 451,239 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.15; stroke-dasharray: 4, 3;"/>
+			<polygon points="451 239, 448.8426 235.0509, 453.1574 235.0509" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<text x="462.74625" y="209" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,418) scale(1,-1)">Return</text>
+			<path d="M 365,253 L 344,253 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.15; stroke-dasharray: 4, 3;"/>
+			<path d="M 344,253 L 344,202 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.15; stroke-dasharray: 4, 3;"/>
+			<path d="M 344,202 L 302,202 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.15; stroke-dasharray: 4, 3;"/>
+			<path d="M 302,202 L 302,187 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.15; stroke-dasharray: 4, 3;"/>
+			<polygon points="302 187, 304.1574 190.9491, 299.8426 190.9491" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<rect x="80" y="22" width="275" height="62" rx="6" ry="0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="165.54000000000002" y="67" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,134) scale(1,-1)">PostgreSQL database</text>
+			<text x="144.81900000000002" y="51" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,102) scale(1,-1)">products  |  conversations  |  messages</text>
+			<text x="123.4326" y="39" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,78) scale(1,-1)">SQLite preview supported; JSON replaces JSONB</text>
+			<path d="M 73,123 L 73,103 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.15;"/>
+			<path d="M 73,103 L 160,103 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.15;"/>
+			<path d="M 160,103 L 160,84 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.15;"/>
+			<polygon points="160 84, 162.1574 87.94912, 157.8426 87.94912" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<path d="M 255,123 L 255,84 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.15;"/>
+			<polygon points="255 84, 257.1574 87.94912, 252.8426 87.94912" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<text x="365" y="77" style="font-family: Helvetica; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,154) scale(1,-1)">Solid: Day 1 working path</text>
+			<text x="365" y="63" style="font-family: Helvetica; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,126) scale(1,-1)">Dashed: planned agent path</text>
+			<text x="365" y="46" style="font-family: Helvetica; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,92) scale(1,-1)">Controller accesses stored</text>
+			<text x="365" y="34" style="font-family: Helvetica; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,68) scale(1,-1)">state through the backend.</text>
+		</g>
+	</g>
+</svg>

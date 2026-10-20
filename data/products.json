@@ -1,0 +1,863 @@
+[
+  {
+    "id": "LAP-001",
+    "name": "Nexa Study 14",
+    "category": "laptop",
+    "price_paise": 3299000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "cpu": "Synthetic C4 processor (4 cores)",
+      "gpu": "Synthetic integrated graphics",
+      "vram_gb": null,
+      "weight_kg": 1.45,
+      "operating_system": "Linux"
+    },
+    "intended_uses": [
+      "general_coursework"
+    ],
+    "features": [
+      "SSD storage",
+      "Portable design"
+    ]
+  },
+  {
+    "id": "LAP-002",
+    "name": "Nexa Study 15",
+    "category": "laptop",
+    "price_paise": 3799000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "cpu": "Synthetic C4 processor (4 cores)",
+      "gpu": "Synthetic integrated graphics",
+      "vram_gb": null,
+      "weight_kg": 1.75,
+      "operating_system": "Windows"
+    },
+    "intended_uses": [
+      "general_coursework"
+    ],
+    "features": [
+      "SSD storage"
+    ]
+  },
+  {
+    "id": "LAP-003",
+    "name": "Nexa Study Plus",
+    "category": "laptop",
+    "price_paise": 4299000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "cpu": "Synthetic C6 processor (6 cores)",
+      "gpu": "Synthetic integrated graphics",
+      "vram_gb": null,
+      "weight_kg": 1.65,
+      "operating_system": "Windows"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming"
+    ],
+    "features": [
+      "SSD storage"
+    ]
+  },
+  {
+    "id": "LAP-004",
+    "name": "Nexa Campus Air",
+    "category": "laptop",
+    "price_paise": 4999000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "cpu": "Synthetic C6 processor (6 cores)",
+      "gpu": "Synthetic integrated graphics",
+      "vram_gb": null,
+      "weight_kg": 1.25,
+      "operating_system": "Windows"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming"
+    ],
+    "features": [
+      "SSD storage",
+      "Portable design"
+    ]
+  },
+  {
+    "id": "LAP-005",
+    "name": "Nexa Campus Air S",
+    "category": "laptop",
+    "price_paise": 5499000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "cpu": "Synthetic C6 processor (6 cores)",
+      "gpu": "Synthetic integrated graphics",
+      "vram_gb": null,
+      "weight_kg": 1.2,
+      "operating_system": "Windows"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming"
+    ],
+    "features": [
+      "SSD storage",
+      "Portable design"
+    ]
+  },
+  {
+    "id": "LAP-006",
+    "name": "Nexa Campus Pro",
+    "category": "laptop",
+    "price_paise": 5999000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "cpu": "Synthetic C8 processor (8 cores)",
+      "gpu": "Synthetic integrated graphics",
+      "vram_gb": null,
+      "weight_kg": 1.4,
+      "operating_system": "Linux"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming"
+    ],
+    "features": [
+      "SSD storage",
+      "Portable design"
+    ]
+  },
+  {
+    "id": "LAP-007",
+    "name": "Nexa Code 14",
+    "category": "laptop",
+    "price_paise": 4499000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "cpu": "Synthetic C6 processor (6 cores)",
+      "gpu": "Synthetic integrated graphics",
+      "vram_gb": null,
+      "weight_kg": 1.4,
+      "operating_system": "Linux"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming"
+    ],
+    "features": [
+      "SSD storage",
+      "Portable design"
+    ]
+  },
+  {
+    "id": "LAP-008",
+    "name": "Nexa Code 15",
+    "category": "laptop",
+    "price_paise": 4999000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "cpu": "Synthetic C8 processor (8 cores)",
+      "gpu": "Synthetic integrated graphics",
+      "vram_gb": null,
+      "weight_kg": 1.8,
+      "operating_system": "Windows"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming"
+    ],
+    "features": [
+      "SSD storage"
+    ]
+  },
+  {
+    "id": "LAP-009",
+    "name": "Nexa Code Plus",
+    "category": "laptop",
+    "price_paise": 5999000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 32,
+      "storage_gb": 512,
+      "cpu": "Synthetic C8 processor (8 cores)",
+      "gpu": "Synthetic integrated graphics",
+      "vram_gb": null,
+      "weight_kg": 1.65,
+      "operating_system": "Linux"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming"
+    ],
+    "features": [
+      "SSD storage"
+    ]
+  },
+  {
+    "id": "LAP-010",
+    "name": "Nexa Code Ultra",
+    "category": "laptop",
+    "price_paise": 6999000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 32,
+      "storage_gb": 1024,
+      "cpu": "Synthetic C10 processor (10 cores)",
+      "gpu": "Synthetic integrated graphics",
+      "vram_gb": null,
+      "weight_kg": 1.5,
+      "operating_system": "Windows"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming"
+    ],
+    "features": [
+      "SSD storage",
+      "Portable design"
+    ]
+  },
+  {
+    "id": "LAP-011",
+    "name": "Nexa Code Compact",
+    "category": "laptop",
+    "price_paise": 6499000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "cpu": "Synthetic C8 processor (8 cores)",
+      "gpu": "Synthetic integrated graphics",
+      "vram_gb": null,
+      "weight_kg": 1.1,
+      "operating_system": "Windows"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming"
+    ],
+    "features": [
+      "SSD storage",
+      "Portable design"
+    ]
+  },
+  {
+    "id": "LAP-012",
+    "name": "Nexa Code Station",
+    "category": "laptop",
+    "price_paise": 7499000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 32,
+      "storage_gb": 1024,
+      "cpu": "Synthetic C12 processor (12 cores)",
+      "gpu": "Synthetic integrated graphics",
+      "vram_gb": null,
+      "weight_kg": 2.0,
+      "operating_system": "Linux"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming"
+    ],
+    "features": [
+      "SSD storage"
+    ]
+  },
+  {
+    "id": "LAP-013",
+    "name": "Nexa Forge Entry",
+    "category": "laptop",
+    "price_paise": 5799000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "cpu": "Synthetic C6 processor (6 cores)",
+      "gpu": "Synthetic discrete G4",
+      "vram_gb": 4,
+      "weight_kg": 2.2,
+      "operating_system": "Windows"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming",
+      "gaming",
+      "creative_work"
+    ],
+    "features": [
+      "SSD storage",
+      "Dedicated GPU"
+    ]
+  },
+  {
+    "id": "LAP-014",
+    "name": "Nexa Forge 15",
+    "category": "laptop",
+    "price_paise": 6499000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "cpu": "Synthetic C8 processor (8 cores)",
+      "gpu": "Synthetic discrete G4",
+      "vram_gb": 4,
+      "weight_kg": 2.3,
+      "operating_system": "Windows"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming",
+      "gaming",
+      "creative_work"
+    ],
+    "features": [
+      "SSD storage",
+      "Dedicated GPU"
+    ]
+  },
+  {
+    "id": "LAP-015",
+    "name": "Nexa Forge Plus",
+    "category": "laptop",
+    "price_paise": 7000000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "cpu": "Synthetic C8 processor (8 cores)",
+      "gpu": "Synthetic discrete G6",
+      "vram_gb": 6,
+      "weight_kg": 2.25,
+      "operating_system": "Windows"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming",
+      "gaming",
+      "creative_work",
+      "local_ml_experiments"
+    ],
+    "features": [
+      "SSD storage",
+      "Dedicated GPU"
+    ]
+  },
+  {
+    "id": "LAP-016",
+    "name": "Nexa Forge Pro",
+    "category": "laptop",
+    "price_paise": 7999000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 32,
+      "storage_gb": 1024,
+      "cpu": "Synthetic C10 processor (10 cores)",
+      "gpu": "Synthetic discrete G8",
+      "vram_gb": 8,
+      "weight_kg": 2.4,
+      "operating_system": "Windows"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming",
+      "gaming",
+      "creative_work",
+      "local_ml_experiments"
+    ],
+    "features": [
+      "SSD storage",
+      "Dedicated GPU"
+    ]
+  },
+  {
+    "id": "LAP-017",
+    "name": "Nexa Forge Max",
+    "category": "laptop",
+    "price_paise": 9499000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 32,
+      "storage_gb": 1024,
+      "cpu": "Synthetic C12 processor (12 cores)",
+      "gpu": "Synthetic discrete G12",
+      "vram_gb": 12,
+      "weight_kg": 2.65,
+      "operating_system": "Linux"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming",
+      "gaming",
+      "creative_work",
+      "local_ml_experiments"
+    ],
+    "features": [
+      "SSD storage",
+      "Dedicated GPU"
+    ]
+  },
+  {
+    "id": "LAP-018",
+    "name": "Nexa Forge Studio",
+    "category": "laptop",
+    "price_paise": 11999000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 64,
+      "storage_gb": 2048,
+      "cpu": "Synthetic C16 processor (16 cores)",
+      "gpu": "Synthetic discrete G16",
+      "vram_gb": 16,
+      "weight_kg": 2.8,
+      "operating_system": "Windows"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming",
+      "gaming",
+      "creative_work",
+      "local_ml_experiments"
+    ],
+    "features": [
+      "SSD storage",
+      "Dedicated GPU"
+    ]
+  },
+  {
+    "id": "LAP-019",
+    "name": "Nexa Canvas Lite",
+    "category": "laptop",
+    "price_paise": 6299000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "cpu": "Synthetic C8 processor (8 cores)",
+      "gpu": "Synthetic discrete G4",
+      "vram_gb": 4,
+      "weight_kg": 1.85,
+      "operating_system": "Windows"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming",
+      "gaming",
+      "creative_work"
+    ],
+    "features": [
+      "SSD storage",
+      "Dedicated GPU"
+    ]
+  },
+  {
+    "id": "LAP-020",
+    "name": "Nexa Canvas Pro",
+    "category": "laptop",
+    "price_paise": 8499000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 32,
+      "storage_gb": 1024,
+      "cpu": "Synthetic C10 processor (10 cores)",
+      "gpu": "Synthetic discrete G8",
+      "vram_gb": 8,
+      "weight_kg": 1.95,
+      "operating_system": "Windows"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming",
+      "gaming",
+      "creative_work",
+      "local_ml_experiments"
+    ],
+    "features": [
+      "SSD storage",
+      "Dedicated GPU"
+    ]
+  },
+  {
+    "id": "LAP-021",
+    "name": "Nexa Canvas Mobile",
+    "category": "laptop",
+    "price_paise": 8999000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 32,
+      "storage_gb": 1024,
+      "cpu": "Synthetic C10 processor (10 cores)",
+      "gpu": "Synthetic discrete G6",
+      "vram_gb": 6,
+      "weight_kg": 1.55,
+      "operating_system": "Windows"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming",
+      "gaming",
+      "creative_work",
+      "local_ml_experiments"
+    ],
+    "features": [
+      "SSD storage",
+      "Dedicated GPU"
+    ]
+  },
+  {
+    "id": "LAP-022",
+    "name": "Nexa Canvas Max",
+    "category": "laptop",
+    "price_paise": 10999000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 64,
+      "storage_gb": 2048,
+      "cpu": "Synthetic C12 processor (12 cores)",
+      "gpu": "Synthetic discrete G12",
+      "vram_gb": 12,
+      "weight_kg": 2.15,
+      "operating_system": "Windows"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming",
+      "gaming",
+      "creative_work",
+      "local_ml_experiments"
+    ],
+    "features": [
+      "SSD storage",
+      "Dedicated GPU"
+    ]
+  },
+  {
+    "id": "LAP-023",
+    "name": "Nexa Everyday 15",
+    "category": "laptop",
+    "price_paise": 2999000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "cpu": "Synthetic C4 processor (4 cores)",
+      "gpu": "Synthetic integrated graphics",
+      "vram_gb": null,
+      "weight_kg": null,
+      "operating_system": "Linux"
+    },
+    "intended_uses": [
+      "general_coursework"
+    ],
+    "features": [
+      "SSD storage"
+    ]
+  },
+  {
+    "id": "LAP-024",
+    "name": "Nexa Everyday Plus",
+    "category": "laptop",
+    "price_paise": 3999000,
+    "currency": "INR",
+    "specifications": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "cpu": "Synthetic C6 processor (6 cores)",
+      "gpu": "Synthetic integrated graphics",
+      "vram_gb": null,
+      "weight_kg": 1.8,
+      "operating_system": "Windows"
+    },
+    "intended_uses": [
+      "general_coursework",
+      "programming"
+    ],
+    "features": [
+      "SSD storage"
+    ]
+  },
+  {
+    "id": "HP-001",
+    "name": "Echo Wire",
+    "category": "headphones",
+    "price_paise": 149000,
+    "currency": "INR",
+    "specifications": {
+      "connection": "wired",
+      "microphone": true,
+      "noise_cancellation": false,
+      "weight_g": 180,
+      "battery_hours": null,
+      "battery_applicability": "not_applicable"
+    },
+    "intended_uses": [
+      "music",
+      "calls"
+    ],
+    "features": [
+      "Microphone"
+    ]
+  },
+  {
+    "id": "HP-002",
+    "name": "Echo Studio Wire",
+    "category": "headphones",
+    "price_paise": 299000,
+    "currency": "INR",
+    "specifications": {
+      "connection": "wired",
+      "microphone": true,
+      "noise_cancellation": false,
+      "weight_g": 240,
+      "battery_hours": null,
+      "battery_applicability": "not_applicable"
+    },
+    "intended_uses": [
+      "music",
+      "calls"
+    ],
+    "features": [
+      "Microphone"
+    ]
+  },
+  {
+    "id": "HP-003",
+    "name": "Echo Monitor",
+    "category": "headphones",
+    "price_paise": 499000,
+    "currency": "INR",
+    "specifications": {
+      "connection": "wired",
+      "microphone": false,
+      "noise_cancellation": false,
+      "weight_g": 260,
+      "battery_hours": null,
+      "battery_applicability": "not_applicable"
+    },
+    "intended_uses": [
+      "music"
+    ],
+    "features": []
+  },
+  {
+    "id": "HP-004",
+    "name": "Echo Everyday",
+    "category": "headphones",
+    "price_paise": 249000,
+    "currency": "INR",
+    "specifications": {
+      "connection": "wireless",
+      "microphone": true,
+      "noise_cancellation": false,
+      "weight_g": 190,
+      "battery_hours": 20,
+      "battery_applicability": "applicable"
+    },
+    "intended_uses": [
+      "music",
+      "calls"
+    ],
+    "features": [
+      "Microphone"
+    ]
+  },
+  {
+    "id": "HP-005",
+    "name": "Echo Commute",
+    "category": "headphones",
+    "price_paise": 399000,
+    "currency": "INR",
+    "specifications": {
+      "connection": "wireless",
+      "microphone": true,
+      "noise_cancellation": true,
+      "weight_g": 210,
+      "battery_hours": 28,
+      "battery_applicability": "applicable"
+    },
+    "intended_uses": [
+      "music",
+      "calls",
+      "commuting"
+    ],
+    "features": [
+      "Active noise cancellation",
+      "Microphone"
+    ]
+  },
+  {
+    "id": "HP-006",
+    "name": "Echo Commute Plus",
+    "category": "headphones",
+    "price_paise": 599000,
+    "currency": "INR",
+    "specifications": {
+      "connection": "both",
+      "microphone": true,
+      "noise_cancellation": true,
+      "weight_g": 230,
+      "battery_hours": 40,
+      "battery_applicability": "applicable"
+    },
+    "intended_uses": [
+      "music",
+      "calls",
+      "commuting"
+    ],
+    "features": [
+      "Active noise cancellation",
+      "Microphone"
+    ]
+  },
+  {
+    "id": "HP-007",
+    "name": "Echo Travel",
+    "category": "headphones",
+    "price_paise": 799000,
+    "currency": "INR",
+    "specifications": {
+      "connection": "both",
+      "microphone": true,
+      "noise_cancellation": true,
+      "weight_g": 220,
+      "battery_hours": 50,
+      "battery_applicability": "applicable"
+    },
+    "intended_uses": [
+      "music",
+      "calls",
+      "commuting"
+    ],
+    "features": [
+      "Active noise cancellation",
+      "Microphone"
+    ]
+  },
+  {
+    "id": "HP-008",
+    "name": "Echo Travel Air",
+    "category": "headphones",
+    "price_paise": 999000,
+    "currency": "INR",
+    "specifications": {
+      "connection": "wireless",
+      "microphone": true,
+      "noise_cancellation": true,
+      "weight_g": 175,
+      "battery_hours": 35,
+      "battery_applicability": "applicable"
+    },
+    "intended_uses": [
+      "music",
+      "calls",
+      "commuting"
+    ],
+    "features": [
+      "Active noise cancellation",
+      "Microphone"
+    ]
+  },
+  {
+    "id": "HP-009",
+    "name": "Echo Focus",
+    "category": "headphones",
+    "price_paise": 449000,
+    "currency": "INR",
+    "specifications": {
+      "connection": "wireless",
+      "microphone": true,
+      "noise_cancellation": true,
+      "weight_g": 205,
+      "battery_hours": 30,
+      "battery_applicability": "applicable"
+    },
+    "intended_uses": [
+      "music",
+      "calls",
+      "commuting"
+    ],
+    "features": [
+      "Active noise cancellation",
+      "Microphone"
+    ]
+  },
+  {
+    "id": "HP-010",
+    "name": "Echo Play",
+    "category": "headphones",
+    "price_paise": 349000,
+    "currency": "INR",
+    "specifications": {
+      "connection": "wired",
+      "microphone": true,
+      "noise_cancellation": false,
+      "weight_g": 280,
+      "battery_hours": null,
+      "battery_applicability": "not_applicable"
+    },
+    "intended_uses": [
+      "music",
+      "calls"
+    ],
+    "features": [
+      "Microphone"
+    ]
+  },
+  {
+    "id": "HP-011",
+    "name": "Echo Play Air",
+    "category": "headphones",
+    "price_paise": 699000,
+    "currency": "INR",
+    "specifications": {
+      "connection": "both",
+      "microphone": true,
+      "noise_cancellation": false,
+      "weight_g": 265,
+      "battery_hours": 45,
+      "battery_applicability": "applicable"
+    },
+    "intended_uses": [
+      "music",
+      "calls"
+    ],
+    "features": [
+      "Microphone"
+    ]
+  },
+  {
+    "id": "HP-012",
+    "name": "Echo Essential",
+    "category": "headphones",
+    "price_paise": 199000,
+    "currency": "INR",
+    "specifications": {
+      "connection": "wireless",
+      "microphone": null,
+      "noise_cancellation": null,
+      "weight_g": null,
+      "battery_hours": null,
+      "battery_applicability": "applicable"
+    },
+    "intended_uses": [
+      "music"
+    ],
+    "features": []
+  }
+]
